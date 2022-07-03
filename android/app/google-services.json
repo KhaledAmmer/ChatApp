@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "249999837669",
+    "project_id": "khaledchat-af1d4",
+    "storage_bucket": "khaledchat-af1d4.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:249999837669:android:c1249bcb541d176dbb070c",
+        "android_client_info": {
+          "package_name": "com.example.khaledchat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "249999837669-71ibqtcqj78gh0ph4dajbn6rcg09rmn0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDYKrzk4rirV4TbyHVjvQSdx1kuu0KziXs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "249999837669-71ibqtcqj78gh0ph4dajbn6rcg09rmn0.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
